@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyExample", "ProxyExample\ProxyExample.csproj", "{964654D5-32C5-4DFD-865F-527981079A0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProxy", "DynamicProxy\DynamicProxy.csproj", "{85C8449A-9BB8-4ACF-A4C7-ED74446AA53F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964654D5-32C5-4DFD-865F-527981079A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964654D5-32C5-4DFD-865F-527981079A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964654D5-32C5-4DFD-865F-527981079A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964654D5-32C5-4DFD-865F-527981079A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C8449A-9BB8-4ACF-A4C7-ED74446AA53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C8449A-9BB8-4ACF-A4C7-ED74446AA53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C8449A-9BB8-4ACF-A4C7-ED74446AA53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C8449A-9BB8-4ACF-A4C7-ED74446AA53F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A85BD44D-95EF-4923-986C-DA44C6FC3358}
+	EndGlobalSection
+EndGlobal
